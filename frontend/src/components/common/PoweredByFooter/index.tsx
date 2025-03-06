@@ -30,7 +30,7 @@ export const PoweredByFooter = (props: React.DetailedHTMLProps<React.HTMLAttribu
                 <a href="https://hi.events?utm_source=app-powered-by-footer"
                    target="_blank"
                    title={'Effortlessly manage events and sell products online with Hi.Events'}>
-                    Hi.Events
+                    JVents
                 </a> 🚀
             </div>
         </div>
