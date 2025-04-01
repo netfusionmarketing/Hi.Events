@@ -127,9 +127,11 @@ const AuthLayout = () => {
             <div className={classes.splitLayout}>
                 <div className={classes.leftPanel}>
                     <main className={classes.container}>
+                        <!--
                         <div className={classes.logo}>
                             <img src={'/logo-dark.svg'} alt={t`hi.events logo`}/>
                         </div>
+                        -->
                         <div className={classes.wrapper}>
                             <Outlet/>
                             {
